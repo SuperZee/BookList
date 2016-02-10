@@ -1,2 +1,5 @@
 # BookList
-书单.随时都能看到，放在README里面，你说你写了这么多书单你不看的话，你脸皮能过得去嘛？？
+-----
+###2016.2  书单
+* Effective Java Sencend Edition
+* 
